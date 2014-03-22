@@ -1,0 +1,7 @@
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/bin/Debug/PortableCommonLibraryUnitTests.dll.mdb
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/bin/Debug/PortableCommonLibraryUnitTests.dll
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/obj/Debug/PortableCommonLibraryUnitTests.dll
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/obj/Debug/PortableCommonLibraryUnitTests.dll.mdb
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/bin/Debug/PortableCommonLibrary.dll
+/Users/faller/Projects/PortableCommonLibrary/PortableCommonLibraryUnitTests/bin/Debug/PortableCommonLibrary.dll.mdb
