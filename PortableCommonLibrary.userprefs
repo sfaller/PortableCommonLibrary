@@ -1,13 +1,13 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PortableCommonLibrary/CommandLine/Parser.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PortableCommonLibrary\CommandLine\Parser.cs">
     <Files>
-      <File FileName="PortableCommonLibrary/CommandLine/Parser.cs" Line="6" Column="33" />
-      <File FileName="PortableCommonLibrary/CommandLine/Interfaces/IParser.cs" Line="1" Column="1" />
-      <File FileName="PortableCommonLibraryUnitTests/ParserTest.cs" Line="1" Column="1" />
-      <File FileName="PortableCommonLibraryUnitTests/TokenizerTest.cs" Line="1" Column="1" />
-      <File FileName="PortableCommonLibrary/String/Tokenizer.cs" Line="1" Column="1" />
-      <File FileName="PortableCommonLibrary/String/Interfaces/ITokenizer.cs" Line="1" Column="1" />
+      <File FileName="PortableCommonLibrary\CommandLine\Parser.cs" Line="6" Column="33" />
+      <File FileName="PortableCommonLibrary\CommandLine\Interfaces\IParser.cs" Line="1" Column="1" />
+      <File FileName="PortableCommonLibraryUnitTests\ParserTest.cs" Line="1" Column="1" />
+      <File FileName="PortableCommonLibraryUnitTests\TokenizerTest.cs" Line="1" Column="1" />
+      <File FileName="PortableCommonLibrary\String\Tokenizer.cs" Line="1" Column="1" />
+      <File FileName="PortableCommonLibrary\String\Interfaces\ITokenizer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
